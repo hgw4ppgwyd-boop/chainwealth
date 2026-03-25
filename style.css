@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0a0a0a;
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.logo {
+  color: gold;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+nav a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero span {
+  color: gold;
+}
+
+.btn {
+  background: gold;
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.section {
+  padding: 40px;
+  text-align: center;
+}
+
+.card {
+  background: #111;
+  padding: 20px;
+  margin: 10px;
+}
